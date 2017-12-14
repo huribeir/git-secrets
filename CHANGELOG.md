@@ -1,5 +1,7 @@
 # CHANGELOG
 
+### dummy
+
 ## 1.2.1 - 2016-06-27
 
 * Fixed an issue where secret provider commands were causing "command not
